@@ -1,0 +1,2 @@
+# freyr-demo
+hotreload demo
